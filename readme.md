@@ -142,8 +142,11 @@ it should guide them toward better mental states.
 - Streamlit chatbot UI
 - Emotion → Action decision system
 
-## Sample Image
-<image>
+<p align="center">
+  <img src="image.png" width="700"/>
+</p>
+
+This system takes user input, predicts emotional state and intensity, and provides actionable guidance with uncertainty awareness.
 
 # By Author :
 Tasneem Firdhosh,MCA
