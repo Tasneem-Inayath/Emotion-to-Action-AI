@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,message
+10001,focused,2,0.8345444,0,sleep,tonight,You’re in a good state. This is a great time for sleep.
+10002,mixed,4,0.5991662,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10003,focused,1,0.26081067,1,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10004,focused,4,0.611559,0,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10005,neutral,0,0.6121806,0,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10006,mixed,3,0.49265438,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10007,restless,3,0.48695618,1,sleep,tonight,You seem a bit restless. A small step like sleep can help you settle.
+10008,overwhelmed,1,0.4243383,1,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10009,restless,3,0.6942225,0,grounding,within_15_min,You seem a bit restless. A small step like grounding can help you settle.
+10010,overwhelmed,2,0.5572201,1,sleep,tonight,You seem overwhelmed. Let’s slow things down—try sleep.
+10011,overwhelmed,3,0.35239637,1,grounding,now,You seem overwhelmed. Let’s slow things down—try grounding.
+10012,neutral,2,0.26491368,1,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10013,neutral,3,0.20954956,1,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10014,focused,2,0.7692226,0,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10015,calm,2,0.68010485,0,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10016,neutral,2,0.5852508,1,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10017,mixed,4,0.6901949,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10018,mixed,0,0.7943651,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10019,calm,1,0.24451452,1,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10020,calm,0,0.2949019,1,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10021,overwhelmed,0,0.5880986,1,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10022,calm,0,0.752647,0,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10023,calm,0,0.4244478,1,sleep,tonight,You seem calm. You can continue with sleep at your pace.
+10024,mixed,0,0.39620706,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10025,calm,3,0.237164,1,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10026,overwhelmed,0,0.521565,1,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10027,mixed,0,0.32834008,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10028,restless,2,0.34569287,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10029,overwhelmed,2,0.68684363,0,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10030,mixed,1,0.2554425,1,sleep,tonight,You have mixed feelings. Try sleep to gain clarity.
+10031,focused,3,0.6800327,0,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10032,mixed,2,0.48238438,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10033,overwhelmed,4,0.66065085,0,grounding,now,You seem overwhelmed. Let’s slow things down—try grounding.
+10034,neutral,4,0.5356911,1,sleep,tonight,You seem neutral. sleep could help you move forward.
+10035,focused,3,0.81973684,0,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10036,restless,0,0.39963746,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10037,overwhelmed,3,0.22822714,1,grounding,now,You seem overwhelmed. Let’s slow things down—try grounding.
+10038,focused,4,0.4917694,1,sleep,tonight,You’re in a good state. This is a great time for sleep.
+10039,mixed,0,0.57553196,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10040,mixed,2,0.7723614,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10041,overwhelmed,4,0.5000686,1,grounding,now,You seem overwhelmed. Let’s slow things down—try grounding.
+10042,neutral,4,0.32034093,1,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10043,restless,0,0.4199493,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10044,calm,2,0.32424712,1,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10045,restless,4,0.53982973,1,grounding,within_15_min,You seem a bit restless. A small step like grounding can help you settle.
+10046,focused,1,0.62058103,0,sleep,tonight,You’re in a good state. This is a great time for sleep.
+10047,focused,4,0.7555815,0,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10048,calm,2,0.6155121,0,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10049,restless,3,0.50097066,1,sleep,tonight,You seem a bit restless. A small step like sleep can help you settle.
+10050,restless,1,0.51182663,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10051,mixed,1,0.31715852,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10052,restless,0,0.5374309,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10053,calm,4,0.6764714,0,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10054,overwhelmed,1,0.6303161,0,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10055,mixed,3,0.63413846,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10056,focused,3,0.7477471,0,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10057,overwhelmed,0,0.62771326,0,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10058,overwhelmed,3,0.5013436,1,grounding,now,You seem overwhelmed. Let’s slow things down—try grounding.
+10059,restless,2,0.24619178,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10060,mixed,0,0.3836543,1,sleep,tonight,You have mixed feelings. Try sleep to gain clarity.
+10061,neutral,0,0.4314043,1,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10062,calm,0,0.53167105,1,sleep,tonight,You seem calm. You can continue with sleep at your pace.
+10063,mixed,4,0.7188993,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10064,calm,4,0.25381428,1,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10065,neutral,4,0.7545607,0,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10066,restless,1,0.60163075,0,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10067,restless,4,0.6242336,0,sleep,tonight,You seem a bit restless. A small step like sleep can help you settle.
+10068,overwhelmed,4,0.68170977,0,grounding,now,You seem overwhelmed. Let’s slow things down—try grounding.
+10069,neutral,2,0.71234876,0,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10070,restless,0,0.370884,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10071,mixed,1,0.6306607,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10072,neutral,3,0.60835373,0,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10073,restless,4,0.35839254,1,sleep,tonight,You seem a bit restless. A small step like sleep can help you settle.
+10074,mixed,0,0.6956831,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10075,calm,3,0.2194003,1,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10076,mixed,2,0.78997034,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10077,neutral,1,0.6312973,0,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10078,restless,2,0.55452573,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10079,restless,2,0.4122903,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10080,calm,3,0.3067237,1,sleep,tonight,You seem calm. You can continue with sleep at your pace.
+10081,restless,1,0.6639073,0,sleep,tonight,You seem a bit restless. A small step like sleep can help you settle.
+10082,mixed,1,0.3076424,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10083,neutral,4,0.5651221,1,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10084,overwhelmed,2,0.7677614,0,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10085,restless,2,0.25716168,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10086,restless,2,0.2472405,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10087,mixed,4,0.7139515,0,sleep,tonight,You have mixed feelings. Try sleep to gain clarity.
+10088,neutral,4,0.6399968,0,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10089,calm,1,0.4263174,1,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10090,mixed,4,0.5261539,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10091,neutral,4,0.67039293,0,sleep,tonight,You seem neutral. sleep could help you move forward.
+10092,overwhelmed,1,0.3864425,1,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10093,mixed,3,0.513286,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10094,focused,3,0.23974553,1,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10095,overwhelmed,2,0.52032906,1,sleep,tonight,You seem overwhelmed. Let’s slow things down—try sleep.
+10096,overwhelmed,3,0.22825405,1,grounding,now,You seem overwhelmed. Let’s slow things down—try grounding.
+10097,restless,0,0.23678458,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10098,overwhelmed,0,0.70817536,0,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10099,mixed,0,0.7525279,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10100,mixed,4,0.57045746,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10101,restless,0,0.30506513,1,breathing,within_15_min,You seem a bit restless. A small step like breathing can help you settle.
+10102,overwhelmed,1,0.62539864,0,breathing,within_15_min,You seem overwhelmed. Let’s slow things down—try breathing.
+10103,calm,3,0.8703838,0,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10104,mixed,3,0.7142189,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10105,calm,4,0.24783134,1,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10106,neutral,4,0.60492766,0,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10107,restless,3,0.42841774,1,grounding,within_15_min,You seem a bit restless. A small step like grounding can help you settle.
+10108,mixed,0,0.28582394,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10109,focused,2,0.3356248,1,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10110,calm,0,0.24302739,1,sleep,tonight,You seem calm. You can continue with sleep at your pace.
+10111,mixed,4,0.76854765,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10112,mixed,2,0.7347766,0,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
+10113,calm,0,0.6421989,0,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10114,neutral,3,0.31652534,1,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10115,calm,2,0.7385707,0,light_planning,later_today,You seem calm. You can continue with light_planning at your pace.
+10116,overwhelmed,1,0.6656274,0,sleep,tonight,You seem overwhelmed. Let’s slow things down—try sleep.
+10117,neutral,4,0.56186366,1,light_planning,later_today,You seem neutral. light_planning could help you move forward.
+10118,focused,0,0.56623507,1,light_planning,within_15_min,You’re in a good state. This is a great time for light_planning.
+10119,mixed,3,0.6710398,0,sleep,tonight,You have mixed feelings. Try sleep to gain clarity.
+10120,mixed,4,0.4775482,1,journaling,later_today,You have mixed feelings. Try journaling to gain clarity.
