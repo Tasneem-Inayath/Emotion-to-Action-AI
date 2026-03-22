@@ -137,10 +137,13 @@ The system produces:
 AI should not just understand humans —  
 it should guide them toward better mental states.
 
-## 🚀 Demo
+## Demo
 - FastAPI backend
 - Streamlit chatbot UI
 - Emotion → Action decision system
+
+## Sample Image
+<image>
 
 # By Author :
 Tasneem Firdhosh,MCA
