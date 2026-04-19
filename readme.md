@@ -148,6 +148,12 @@ it should guide them toward better mental states.
 
 This system takes user input, predicts emotional state and intensity, and provides actionable guidance with uncertainty awareness.
 
+## Link for Review:
+
+```
+https://emotion-to-action-ai-9uasbnd4u9cstaolnriryx.streamlit.app/
+```
+
 # By Author :
 Tasneem Firdhosh,MCA
 
